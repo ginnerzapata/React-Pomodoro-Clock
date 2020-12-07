@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ginnerzapata.github.io/React-Pomodoro-Clock/static/css/main.540a1c28.chunk.css",
+    "main.js": "/ginnerzapata.github.io/React-Pomodoro-Clock/static/js/main.7f67161d.chunk.js",
+    "main.js.map": "/ginnerzapata.github.io/React-Pomodoro-Clock/static/js/main.7f67161d.chunk.js.map",
+    "runtime-main.js": "/ginnerzapata.github.io/React-Pomodoro-Clock/static/js/runtime-main.fe858696.js",
+    "runtime-main.js.map": "/ginnerzapata.github.io/React-Pomodoro-Clock/static/js/runtime-main.fe858696.js.map",
+    "static/js/2.218f4da8.chunk.js": "/ginnerzapata.github.io/React-Pomodoro-Clock/static/js/2.218f4da8.chunk.js",
+    "static/js/2.218f4da8.chunk.js.map": "/ginnerzapata.github.io/React-Pomodoro-Clock/static/js/2.218f4da8.chunk.js.map",
+    "index.html": "/ginnerzapata.github.io/React-Pomodoro-Clock/index.html",
+    "precache-manifest.59d4108398a27118ffaa8787e0435736.js": "/ginnerzapata.github.io/React-Pomodoro-Clock/precache-manifest.59d4108398a27118ffaa8787e0435736.js",
+    "service-worker.js": "/ginnerzapata.github.io/React-Pomodoro-Clock/service-worker.js",
+    "static/css/main.540a1c28.chunk.css.map": "/ginnerzapata.github.io/React-Pomodoro-Clock/static/css/main.540a1c28.chunk.css.map",
+    "static/js/2.218f4da8.chunk.js.LICENSE.txt": "/ginnerzapata.github.io/React-Pomodoro-Clock/static/js/2.218f4da8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe858696.js",
+    "static/js/2.218f4da8.chunk.js",
+    "static/css/main.540a1c28.chunk.css",
+    "static/js/main.7f67161d.chunk.js"
+  ]
+}
